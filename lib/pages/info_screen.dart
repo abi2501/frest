@@ -66,7 +66,6 @@ class BmiInfoScreen extends StatelessWidget {
                 style: Theme.of(context)
                     .textTheme
                     .displaySmall!
-                    .copyWith(color: Colors.white),
                 textAlign: TextAlign.left,
               )
             ],
